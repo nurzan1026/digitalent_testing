@@ -1,11 +1,12 @@
 {
-  "window.zoomLevel": 1,
-  "editor.fontSize": 12,
+  "window.zoomLevel": 0.1,
+  "editor.fontSize": 14,
   "editor.wordWrap": "on",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Dracula Theme",
   "workbench.iconTheme": "material-icon-theme",
   "terminal.integrated.fontSize": 12,
-  "editor.lineHeight": 1.5,
+  "editor.lineHeight": 2,
+  "editor.fontFamily": "fira code",
   "workbench.colorCustomizations": {
     "activityBar.background": "#164e63",
     "activityBar.activeBackground": "#0f766e",
